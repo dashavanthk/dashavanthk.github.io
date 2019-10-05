@@ -372,3 +372,7 @@ label{display:block;font-family:Poppins;font-size:14px;font-weight:500;color:#f9
 .bare>li{margin-top:15px;}
 #mmb:hover{text-decoration:none;color:#337ab7;}
 .nav-social>ul>li>a:hover{text-decoration:none;}
+
+.bg-gra{
+    background-image:linear-gradient(to right, #000000 1% , #fffffe 35%);
+}
